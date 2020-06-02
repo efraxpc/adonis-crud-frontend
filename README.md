@@ -1,21 +1,5 @@
-# React CRUD App using Material Ui
+# Adonis API application
 
-# Prerequisite
-- Nodejs v10+
+Frontend part of a FullStack Adonis Crud App
 
-## Getting Started
-```
-git clone https://github.com/jeyk333/React-CRUD-using-Material-Ui.git
-
-cd React-CRUD-using-Material-Ui
-
-npm install or yarn install
-
-npm start or yarn start
-```
-# Libraries used 
-- Reactjs
-- @material-ui/core
-- @material-ui/icons
-- Babel
-- ESLint
+![](http://g.recordit.co/1zgKkVEG6f.gif)
